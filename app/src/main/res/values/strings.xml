@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="headerText">Barbara\'s Portfolio</string>
+    <string name="Go">Go To</string>
+</resources>
